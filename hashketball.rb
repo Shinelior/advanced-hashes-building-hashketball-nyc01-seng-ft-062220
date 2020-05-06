@@ -94,7 +94,7 @@ def game_hash
   game_hash[:away][:players][1][:rebounds] = 4
   game_hash[:away][:players][1][:assists] = 7
   game_hash[:away][:players][1][:steals] = 22
-  game_hash[:away][:players][1][:Blocks] = 15
+  game_hash[:away][:players][1][:blocks] = 15
   game_hash[:away][:players][1][:Slam_Dunks] = 10
   game_hash[:away][:players][2] = {}
   game_hash[:away][:players][2][:player_name] ="DeSagna Diop"
