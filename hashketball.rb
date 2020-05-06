@@ -86,7 +86,7 @@ def game_hash
   game_hash[:away][:players][0][:blocks] = 7
   game_hash[:away][:players][0][:slam_dunks] = 2
   game_hash[:away][:players][1] = {}
-  game_hash[:away][:players][1][:player_name] = "BismackBiyombo"
+  game_hash[:away][:players][1][:player_name] = "Bismack Biyombo"
   game_hash[:away][:players][1][:number] = 0
   game_hash[:away][:players][1][:shoe] = 16
   game_hash[:away][:players][1][:points] = 12
