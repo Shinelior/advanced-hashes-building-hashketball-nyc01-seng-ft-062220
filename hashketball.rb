@@ -71,7 +71,7 @@ def game_hash
   game_hash[:home][:players][4][:assists] = 2
   game_hash[:home][:players][4][:steals] = 4
   game_hash[:home][:players][4][:blocks]  = 11 
-  game_hash[:home][:players][4][:Slam_Dunks] = 1
+  game_hash[:home][:players][4][:slam_dunks] = 1
     
   game_hash[:away] = {}
   game_hash[:away][:team_name] = "Charlotte Hornets"
