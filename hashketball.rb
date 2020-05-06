@@ -115,7 +115,7 @@ def game_hash
   game_hash[:away][:players][3][:assists] = 2 
   game_hash[:away][:players][3][:steals] = 1
   game_hash[:away][:players][3][:blocks]  = 1
-  game_hash[:away][:players][3][:Slam_Dunks] = 0
+  game_hash[:away][:players][3][:slam_dunks] = 0
   game_hash[:away][:players][4] ={}
   game_hash[:away][:players][4][:player_name] ="Kemba Walker"
   game_hash[:away][:players][4][:number] = 33
