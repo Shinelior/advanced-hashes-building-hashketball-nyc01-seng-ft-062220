@@ -60,7 +60,7 @@ def game_hash
   game_hash[:home][:players][3][:rebounds] = 11
   game_hash[:home][:players][3][:assists] = 6 
   game_hash[:home][:players][3][:steals] = 3
-  game_hash[:home][:players][3][:Blocks]  = 8 
+  game_hash[:home][:players][3][:blocks]  = 8 
   game_hash[:home][:players][3][:Slam_Dunks] = 5
   game_hash[:home][:players][4] ={}
   game_hash[:home][:players][4][:player_name] = "Jason Terry"
