@@ -21,7 +21,7 @@ def game_hash
    # }}
     game_hash[:home]={}
   game_hash[:home][:team_name] ="Brooklyn Nets"
-  game_hash[:home][:color]=["Black","White"]
+  game_hash[:home][:colors]=["Black","White"]
   game_hash[:home][:players]=[{}]
   game_hash[:home][:players][0][:player_name] = "Alan Anderson"
   game_hash[:home][:players][0][:number] = 0
