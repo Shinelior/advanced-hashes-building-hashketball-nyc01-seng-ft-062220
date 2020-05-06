@@ -41,7 +41,7 @@ def game_hash
   game_hash[:home][:players][1][:assists] = 12
   game_hash[:home][:players][1][:steals] = 12
   game_hash[:home][:players][1][:blocks] = 12
-  game_hash[:home][:players][1][:Slam_Dunks] = 7
+  game_hash[:home][:players][1][:slam_dunks] = 7
   game_hash[:home][:players][2] ={}
   game_hash[:home][:players][2][:player_name] ="Brook Lopez"
   game_hash[:home][:players][2][:number] = 11
