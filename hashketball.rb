@@ -31,7 +31,7 @@ def game_hash
   game_hash[:home][:players][0][:assists] = 12
   game_hash[:home][:players][0][:steals] = 3
   game_hash[:home][:players][0][:blocks] = 1
-  game_hash[:home][:players][0][:slam_Dunks] = 1
+  game_hash[:home][:players][0][:slam_dunks] = 1
   game_hash[:home][:players][1] ={}
   game_hash[:home][:players][1][:player_name] = "Reggie Evans"
   game_hash[:home][:players][1][:number] = 30
@@ -124,7 +124,7 @@ def game_hash
   game_hash[:away][:players][4][:rebounds] = 12
   game_hash[:away][:players][4][:assists] = 12
   game_hash[:away][:players][4][:steals] = 7
-  game_hash[:away][:players][4][:Blocks]  = 5 
+  game_hash[:away][:players][4][:blocks]  = 5 
   game_hash[:away][:players][4][:Slam_Dunks] = 12
  binding.pry
  return game_hash
