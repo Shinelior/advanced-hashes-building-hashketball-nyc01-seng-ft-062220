@@ -123,7 +123,7 @@ def game_hash
   game_hash[:away][:players][4][:points] = 6
   game_hash[:away][:players][4][:rebounds] = 12
   game_hash[:away][:players][4][:assists] = 12
-  game_hash[:away][:players][4][:Steals] = 7
+  game_hash[:away][:players][4][:steals] = 7
   game_hash[:away][:players][4][:Blocks]  = 5 
   game_hash[:away][:players][4][:Slam_Dunks] = 12
  binding.pry
