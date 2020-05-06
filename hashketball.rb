@@ -104,7 +104,7 @@ def game_hash
   game_hash[:away][:players][2][:rebounds] = 12
   game_hash[:away][:players][2][:assists] = 12
   game_hash[:away][:players][2][:steals] = 4
-  game_hash[:away][:players][2][:Blocks] = 5
+  game_hash[:away][:players][2][:blocks] = 5
   game_hash[:away][:players][2][:Slam_Dunks] = 5
   game_hash[:away][:players][3] ={}
   game_hash[:away][:players][3][:player_name] ="Ben Gordon"
