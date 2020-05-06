@@ -74,7 +74,7 @@ def game_hash
   game_hash[:home][:players][4][:slam_dunks] = 1
   game_hash[:away] = {}
   game_hash[:away][:team_name] = "Charlotte Hornets"
-  game_hash[:away][:color]=["Turquoise","Purple"]
+  game_hash[:away][:colors]=["Turquoise","Purple"]
   game_hash[:away][:players]=[{}]
   game_hash[:away][:players][0][:player_name] = "Jeff Adrien"
   game_hash[:away][:players][0][:number] = 4
