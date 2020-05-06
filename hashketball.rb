@@ -50,7 +50,7 @@ def game_hash
   game_hash[:home][:players][2][:rebounds] = 19
   game_hash[:home][:players][2][:assists] = 10
   game_hash[:home][:players][2][:steals] = 3
-  game_hash[:home][:players][2][:Blocks] = 1
+  game_hash[:home][:players][2][:blocks] = 1
   game_hash[:home][:players][2][:Slam_Dunks] = 15
   game_hash[:home][:players][3] ={}
   game_hash[:home][:players][3][:player_name] ="Mason Plumlee"
