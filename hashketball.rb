@@ -82,7 +82,7 @@ def game_hash
   game_hash[:away][:players][0][:shoe] = 18
   game_hash[:away][:players][0][:points] = 10
   game_hash[:away][:players][0][:rebounds] = 1
-  game_hash[:away][:players][0][:Assists] = 1
+  game_hash[:away][:players][0][:assists] = 1
   game_hash[:away][:players][0][:Steals] = 2
   game_hash[:away][:players][0][:Blocks] = 7
   game_hash[:away][:players][0][:Slam_Dunks] = 2
